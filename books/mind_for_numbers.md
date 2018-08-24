@@ -11,4 +11,6 @@
  * you are making progress with each mistake you catch when trying to solve a problem
  * keep your working sessions short
  * back and forth between focused-mode attention and diffuse-mode relaxation does the trick
- 
+ * working memory and long-term memory
+ * spaced repetition to move information from working memory to long-term memory
+ * work focused in small doses
