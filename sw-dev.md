@@ -20,7 +20,12 @@
 
 ---
 
-* Accident Analysis
+* Troubleshooting Checklist
+  * Gather parameters for reproducing the problem.
+  * Reproduce
+  * Isolate
+
+* Failure Analysis
 
   * [STAMP](https://shemesh.larc.nasa.gov/iria03/p13-leveson.pdf)
 
