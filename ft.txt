@@ -1,0 +1,56 @@
+trait I1[F[_]] {
+  def m1: F[???]
+  ...
+}
+
+// implementation in another file
+
+---
+
+trait I2[F[_]] {
+  def m1: F[???]
+  def m2(implicit F: $TC1[F]): F[???] = ... // using m1 and other
+  def m3(implicit F: $TC2[F]): F[???] // because $TC3 < $TC2
+  ...
+}
+
+object I2 {
+  def create[F[_]](implicit $DEPS[F], F: $TC3[F]): I2[F] = ...
+}
+
+---
+
+trait I3[F[_]] {
+  def m1: F[???]
+}
+
+object I3 {
+  def create[F[_]](implicit $DEPS[F], F: $TC1[F]): I3[F] = ...
+}
+
+---
+
+trait I4[F[_]] {
+  def m1: F[???]
+  def m2(implicit F: $TC1[F]): F[???] = ... // using m1 and other
+  ...
+}
+
+object I4 {
+  def create[F[_]](implicit $DEPS[F], F: $TC2[F]): I4[F] = ...
+}
+
+---
+
+class C1[F[_]](implicit $DEPS[F]) {
+  def m1(implicit F: $TC1[F]): F[???] = ...
+  def m2(implicit F: $TC2[F]): F[???] = ...
+  ...
+}
+
+---
+
+class C2[F[_]](implicit $DEPS[F], F: $TC1[F]) {
+  def m1: F[???] = ...
+  ...
+}
