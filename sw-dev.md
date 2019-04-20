@@ -12,6 +12,8 @@
 
   * Commit messages
 
+    * https://github.com/RomuloOliveira/commit-messages-guide
+
     * https://www.conventionalcommits.org
 
 * Oracle SQL Developer
