@@ -37,3 +37,9 @@
     * Why did it took so long to
       * isolate the problem?
       * discover the cause of the problem?
+
+---
+
+* Documentation
+
+  * [What nobody tells you about documentation](https://www.divio.com/blog/documentation/)
