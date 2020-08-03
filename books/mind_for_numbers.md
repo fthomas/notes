@@ -13,3 +13,13 @@
  * back and forth between focused-mode attention and diffuse-mode relaxation does the trick
  * working memory and long-term memory
  * spaced repetition to move information from working memory to long-term memory
+
+### Chapter 4: chunking and avoiding illusions of competence
+ * focus can help solving a problem, but also blocking you to see new solutions
+ * chunks: bits of information connected by meaning
+ * chunks are required for gaining expertise
+ * chunking an idea doesn't require to remember all underlying details
+ * worked out examples can help seeing key features and principles
+ * steps to chunking: focus on the information, understand the basic idea, gaining context to see how and when to use it
+ * self-testing and retrieval practice far more important than rereading
+ * recall practice reveals holes in understanding
