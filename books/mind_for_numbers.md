@@ -23,3 +23,11 @@
  * steps to chunking: focus on the information, understand the basic idea, gaining context to see how and when to use it
  * self-testing and retrieval practice far more important than rereading
  * recall practice reveals holes in understanding
+ * increase chunked mental library
+ * practice makes permanent
+ * practicing and recalling material is an effective way to learn
+ * recall material while outside usual place of study
+ * interleaving instead overlearning: helps learning when to use a method instead of only how
+   (revisit topic after some time instead of practicing it for too long ofter first learning it) 
+ 
+ 
