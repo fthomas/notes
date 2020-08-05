@@ -31,3 +31,6 @@
    (revisit topic after some time instead of practicing it for too long ofter first learning it) 
  
 ### Chapter 5: preventing procrastination
+ * don't waste willpower to fight procrastination
+ * we procrastinate about things that make us feel uncomfortable
+ * dread of doing a task can use up more time and energy than doing the task itself
