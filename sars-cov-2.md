@@ -7,6 +7,8 @@ genome:
 gene:
  * sequence of nucleotides in DNA or RNA that encodes the synthesis of a gene product (RNA or a protein)
 
+DNA:
+ * strands end with a 3' end and a 5' end
 
 TODO:
  * extract gene of the spike protein
