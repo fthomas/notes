@@ -13,3 +13,4 @@ DNA:
 TODO:
  * extract gene of the spike protein
  
+ * each codon corresponds to a specific amino acid
