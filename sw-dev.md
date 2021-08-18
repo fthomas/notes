@@ -5,7 +5,17 @@
     * Forces you to better structure your code because you need to align the types.
       The types system prevents you from just adding side effecting statements here and there.
       This also leads to smaller functions.
+      
+     * Programs as Values:
+       * https://systemfw.org/posts/programs-as-values-I.html
+       * https://systemfw.org/posts/programs-as-values-II.html
+       * https://systemfw.org/posts/programs-as-values-III.html
 
+* DDD
+  * Aggregate: The idea behind aggregate is to enforce consistency and invariants.
+    An aggregate is a place where invariants are enforced and act as a consistency boundary.
+    -- https://medium.com/geekculture/thoughts-on-domain-driven-design-in-functional-languages-83c43ec518d
+    
 ---
 
 * Version control
