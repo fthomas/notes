@@ -35,3 +35,7 @@
  * we procrastinate about things that make us feel uncomfortable
  * dread of doing a task can use up more time and energy than doing the task itself
  * unhappy feeling when thinking about something you don't like, so you shift focus to a more pleasant task
+
+### Chapter 6
+ * recognize the cue that launches you into procrastination mode
+ * try to prevent cues that lead to procrastination
