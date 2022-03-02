@@ -39,3 +39,8 @@
 ### Chapter 6
  * recognize the cue that launches you into procrastination mode
  * try to prevent cues that lead to procrastination
+
+### Related material
+ * https://krautreporter.de/2834-was-du-uber-dein-gehirn-wissen-solltest-wenn-du-etwas-lernen-willst-egal-was
+ * https://krautreporter.de/3960-die-vier-saulen-des-lernens
+ * https://krautreporter.de/2933-acht-tipps-die-dir-noch-heute-beim-lernen-helfen
